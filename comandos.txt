@@ -2,3 +2,9 @@ Este archivo contiene los comandos mas importantes de git.
 1. git init -- Este comando inicializa el proyecto con git
 2. git add . -- Agrega los archivos del Proyecto al Staging Agrega
 3. git commit -m -- Agrega los archivos al Repositorio local
+4. git config --global user.name "pepito"
+5. git config --global user.email "pepito@gmail.com"
+6. git status --Permite ver el estado de los archivos del proyecto
+7. git log --oneline   --Permite ver las diferentes version o commits del proyecto
+8. git branch -- Permite saber en que rama estoy
+9. git checkout -b branch_name
