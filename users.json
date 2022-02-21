@@ -1,0 +1,29 @@
+[
+    {
+        "id": "74848483848484",
+        "user_name": "johan",
+        "lastname": "Fernandez",
+        "sports": ["futbol","tennis","tejo"],
+        "peliculas": [{"name": "spiderman", "year":2000, "autor": "pepito"},
+                      {"name": "superman", "year":2012, "autor": "pepita"}],
+        "edad": 23 
+    },
+    {
+        "id": "845465465456",
+        "user_name": "carlos",
+        "lastname": "arias",
+        "sports": ["basketball","patinaje","tejo"],
+        "peliculas": [{"name": "spiderman", "year":2000, "autor": "pepito"},
+                      {"name": "superman", "year":2012, "autor": "pepita"}],
+        "edad": 20 
+    },
+    {
+        "id": "846348454",
+        "user_name": "paola",
+        "lastname": "salazar",
+        "sports": ["futbol","tennis","tejo"],
+        "peliculas": [{"name": "spiderman", "year":2000, "autor": "pepito"},
+                      {"name": "superman", "year":2012, "autor": "pepita"}],
+        "edad": 21 
+    }
+]
